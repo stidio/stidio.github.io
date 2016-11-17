@@ -1,0 +1,68 @@
+# Basic
+title: 周刚
+subtitle: Nicolas Chow
+description: 凡是过去 皆为序章
+# 头像里面的标题
+avatarTitle: stidio
+# 头像里面的描述
+avatarDesc: 编程·管理·运动·读书
+url: "http://stidio.github.io"
+
+# Comment
+comment:
+    # disqus: leopard
+    duoshuo: stidio 
+
+# Social
+social:
+    weibo: 1073227497 
+    github: stidio
+    # twitter: 
+    mail: stidio@163.com
+
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    id: 15c4fed56d4cae267af95752c20fa16e  
+
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
+ga:
+    id: UA-87578654-1
+    host: auto  
+
+
+# ----------------- 上面的信息修改成你自己的 ---------------------------
+#
+#  _post/   文章目录
+#  _drafts/ 未发布的文章目录
+#  目录结构具体参考文档：http://jekyll.com.cn/docs/structure/
+#
+# --------------- 下面的信息可以自行选择是否修改 ------------------------
+
+
+permalink: /:year/:month/:title/
+# Format
+markdown: kramdown
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear #背景Mask
+
+# The blog button should not be removed.
+blog_button:
+    title: 主页
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: 存档, description: archive, url: '/archive'}   
+    - {title: 标签, description: tags, url: '/tags'}      
+    - {title: 关于, description: about, url: '/about'}      
+    
+
+# Pagination
+gems: [jekyll-paginate,jekyll-sitemap]
+paginate: 20
+paginate_path: "page/:num/"
+
+

@@ -148,3 +148,7 @@ Jekyll的Markdown解释器从3.0开始，默认从 *redcarpet+Pygments* 换为 *
 [Markdown 语法说明](http://wowubuntu.com/markdown/index.html){:target="_blank"}  
 [Markdown Lint](https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md){:target="_blank"}  
 [kramdown Quick Reference](http://kramdown.gettalong.org/quickref.html){:target="_blank"}
+
+<br/>
+
+> [原始链接]({{page.url}}) 版权声明：自由转载-非商用-非衍生-保持署名 \| [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)

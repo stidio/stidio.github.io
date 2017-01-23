@@ -137,7 +137,7 @@ h4 {
 
 h5 {
   font-size: 1em; }
-
+  
 p {
   margin-bottom: 10px;
   margin-top: 5px;
@@ -171,6 +171,10 @@ ol, ul {
 ol li, ul li {
   margin: 0 0 .2em 0;
   line-height: 1.6em; }
+ol li p{
+  margin: 0 0 .2em 0;
+  line-height: 1.6em; 
+  padding-left: 0px;}
 ol ol, ol ul, ul ol, ul ul {
   margin: .1em 0 .2em 2em; }
 ol {
